@@ -49,7 +49,7 @@ You can download the latest **Debug APK** from the "Actions" tab in the GitHub r
 - **DI**: Hilt (Dagger)
 - **Navigation**: Jetpack Compose Navigation (Type-Safe)
 - **Concurrency**: Kotlin Coroutines & Flow
-- **Testing**: JUnit, Turbine, Robolectric
+- **Testing**: JUnit, Turbine
 - **CI**: GitHub Actions
 
 ## Setup Instructions
