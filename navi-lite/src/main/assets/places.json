@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Home",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "icon": "ic_home"
+  },
+  {
+    "id": 2,
+    "name": "Office",
+    "lat": 59.3340,
+    "lng": 18.0667,
+    "icon": "ic_work"
+  },
+  {
+    "id": 3,
+    "name": "Central Station",
+    "lat": 59.3309,
+    "lng": 18.0583,
+    "icon": "ic_train"
+  },
+  {
+    "id": 4,
+    "name": "City Mall",
+    "lat": 59.3326,
+    "lng": 18.0649,
+    "icon": "ic_shopping"
+  },
+  {
+    "id": 5,
+    "name": "Grocery Store",
+    "lat": 59.3275,
+    "lng": 18.0712,
+    "icon": "ic_grocery"
+  },
+  {
+    "id": 6,
+    "name": "Hospital",
+    "lat": 59.3332,
+    "lng": 18.0356,
+    "icon": "ic_hospital"
+  },
+  {
+    "id": 7,
+    "name": "University",
+    "lat": 59.3470,
+    "lng": 18.0730,
+    "icon": "ic_school"
+  },
+  {
+    "id": 8,
+    "name": "City Park",
+    "lat": 59.3398,
+    "lng": 18.0751,
+    "icon": "ic_park"
+  },
+  {
+    "id": 9,
+    "name": "Museum",
+    "lat": 59.3269,
+    "lng": 18.1046,
+    "icon": "ic_museum"
+  },
+  {
+    "id": 10,
+    "name": "Airport Shuttle Stop",
+    "lat": 59.3358,
+    "lng": 18.0635,
+    "icon": "ic_airport"
+  },
+  {
+    "id": 11,
+    "name": "Coffee Shop",
+    "lat": 59.3315,
+    "lng": 18.0701,
+    "icon": "ic_coffee"
+  },
+  {
+    "id": 12,
+    "name": "Gym",
+    "lat": 59.3281,
+    "lng": 18.0609,
+    "icon": "ic_fitness"
+  },
+  {
+    "id": 13,
+    "name": "Library",
+    "lat": 59.3364,
+    "lng": 18.0742,
+    "icon": "ic_library"
+  },
+  {
+    "id": 14,
+    "name": "Cinema",
+    "lat": 59.3319,
+    "lng": 18.0628,
+    "icon": "ic_movie"
+  },
+  {
+    "id": 15,
+    "name": "Pharmacy",
+    "lat": 59.3302,
+    "lng": 18.0729,
+    "icon": "ic_pharmacy"
+  },
+  {
+    "id": 16,
+    "name": "Bus Terminal",
+    "lat": 59.3298,
+    "lng": 18.0564,
+    "icon": "ic_bus"
+  },
+  {
+    "id": 17,
+    "name": "Tech Hub",
+    "lat": 59.3377,
+    "lng": 18.0901,
+    "icon": "ic_tech"
+  },
+  {
+    "id": 18,
+    "name": "Beach Walk",
+    "lat": 59.3189,
+    "lng": 18.0924,
+    "icon": "ic_beach"
+  },
+  {
+    "id": 19,
+    "name": "Old Town Square",
+    "lat": 59.3250,
+    "lng": 18.0707,
+    "icon": "ic_landmark"
+  },
+  {
+    "id": 20,
+    "name": "Restaurant",
+    "lat": 59.3339,
+    "lng": 18.0812,
+    "icon": "ic_restaurant"
+  },
+  {
+    "id": 21,
+    "name": "Book Store",
+    "lat": 59.3348,
+    "lng": 18.0674,
+    "icon": "ic_book"
+  },
+  {
+    "id": 22,
+    "name": "Night Club",
+    "lat": 59.3291,
+    "lng": 18.0651,
+    "icon": "ic_nightlife"
+  },
+  {
+    "id": 23,
+    "name": "Conference Center",
+    "lat": 59.3412,
+    "lng": 18.0548,
+    "icon": "ic_conference"
+  },
+  {
+    "id": 24,
+    "name": "Hotel",
+    "lat": 59.3321,
+    "lng": 18.0599,
+    "icon": "ic_hotel"
+  },
+  {
+    "id": 25,
+    "name": "Police Station",
+    "lat": 59.3369,
+    "lng": 18.0621,
+    "icon": "ic_police"
+  },
+  {
+    "id": 26,
+    "name": "Fire Station",
+    "lat": 59.3272,
+    "lng": 18.0526,
+    "icon": "ic_fire"
+  },
+  {
+    "id": 27,
+    "name": "Playground",
+    "lat": 59.3405,
+    "lng": 18.0784,
+    "icon": "ic_playground"
+  },
+  {
+    "id": 28,
+    "name": "Harbor Pier",
+    "lat": 59.3204,
+    "lng": 18.0983,
+    "icon": "ic_harbor"
+  },
+  {
+    "id": 29,
+    "name": "Art Gallery",
+    "lat": 59.3356,
+    "lng": 18.0867,
+    "icon": "ic_art"
+  },
+  {
+    "id": 30,
+    "name": "Sports Arena",
+    "lat": 59.3442,
+    "lng": 18.0839,
+    "icon": "ic_sports"
+  }
+]

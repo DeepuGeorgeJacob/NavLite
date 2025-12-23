@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NaviLite</string>
+    <string name="latitude_value">Latitude %1s</string>
+    <string name="longitude_value">Longitude %1s</string>
+    <string name="details">Details</string>
+    <string name="error_loading_places">Error loading place details</string>
+    <string name="navigate_button_text">Navigate</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="location">LOCATION</string>
+    <string name="navigation_simulation">NAVIGATION SIMULATION</string>
+    <string name="distance">Distance</string>
+    <string name="current_latitude">Current Latitude</string>
+    <string name="current_longitude">Current Longitude</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="destination_reached_message">Destination reached!</string>
+    <string name="start_navigation">START NAVIGATION</string>
+    <string name="restart_navigation">RESTART NAVIGATION</string>
+</resources>
